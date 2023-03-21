@@ -1,0 +1,10 @@
+**/**
+!appsscript.json
+!config.js
+!index.html
+!starrez.js
+!webapp.js
+!Gmail/**.js
+!GoogleDocs/**.js
+!HangoutsChat/**.js
+!Test/test.js
